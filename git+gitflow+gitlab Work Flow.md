@@ -61,7 +61,7 @@
 	
 			git clone git@github_second.com:{{PATH_TO_YOUR_GIT}}
 
-+ ~~~~git实际上是通过本机上面的config文件中user设定来判定，究竟是谁将代码推送到服务器上的。你可以使用一下git命令输出user的用户名和邮箱地址~~
++ ~~git实际上是通过本机上面的config文件中user设定来判定，究竟是谁将代码推送到服务器上的。你可以使用一下git命令输出user的用户名和邮箱地址~~
 
 		git config user.name
 		git config user.email
